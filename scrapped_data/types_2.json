@@ -1,0 +1,57 @@
+{
+    "irrelevant": {
+        "count": 239
+    },
+    "native": {
+        "count": 391,
+        "kotlin": 224,
+        "swift": 181,
+        "objective-c": 75,
+        "java": 117,
+        "flutter": 14,
+        "react-native": 14,
+        "xamarin": 3,
+        "ionic": 1,
+        "cordova": 2
+    },
+    "hybrid": {
+        "count": 108,
+        "react-native": 41,
+        "java": 21,
+        "ionic": 27,
+        "cordova": 10,
+        "xamarin": 6,
+        "flutter": 51,
+        "kotlin": 19,
+        "swift": 5
+    },
+    "unspecified": {
+        "count": 47,
+        "kotlin": 13,
+        "java": 25,
+        "swift": 5,
+        "flutter": 7,
+        "react-native": 8,
+        "ionic": 1,
+        "cordova": 1,
+        "objective-c": 1
+    },
+    "nocode": {
+        "count": 3
+    },
+    "multiple": {
+        "count": 9,
+        "flutter": 6,
+        "cordova": 1,
+        "kotlin": 5,
+        "swift": 6,
+        "react-native": 4,
+        "xamarin": 2,
+        "objective-c": 1,
+        "java": 3,
+        "ionic": 1
+    },
+    "n/a": {
+        "count": 1
+    }
+}

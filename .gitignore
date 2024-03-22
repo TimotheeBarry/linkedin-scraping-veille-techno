@@ -1,0 +1,13 @@
+*.txt
+*.pdf
+veille.md
+images/
+assets/
+data/
+backup/
+types.json
+data_gpt.json
+*.pptm
+*.chromedriver
+tests.ipynb
+jobs_data.ipynb
